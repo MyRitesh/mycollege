@@ -1,4 +1,4 @@
 # mycollege
 this is my first respositories
 <br>
-author -Ritesh Maurya
+author -Ritesh Maurya (RM)
